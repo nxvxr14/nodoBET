@@ -49,7 +49,7 @@ El Hitec HS-755HB es un servomotor analógico de escala gigante diseñado para a
 
 ## Pinout
 
-<img src="https://cdn.littlebird.com.au/images/files/000/059/973/large/SF-ROB-12625.jpg?1535771975" alt="Servo Pinout" style={{maxHeight: '200px'}} />
+<img src=" " alt="Servo Pinout" style={{maxHeight: '200px'}} />
 
 El servomotor tiene un conector de 3 pines con la siguiente configuración:
 
