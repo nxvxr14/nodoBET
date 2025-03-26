@@ -13,6 +13,7 @@ El **HS-805BB+** es un servomotor analógico de escala 1/4, conocido como el "se
 ## ¿Qué incluye?
 
 - 2x GWS Servomotor HS-805BB+
+- No incluye accesorios de montaje básicos
 
 ## Ubicación
 
