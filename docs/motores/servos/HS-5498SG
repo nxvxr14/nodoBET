@@ -1,0 +1,68 @@
+---
+sidebar_position: 5
+---
+# HS-5498SG
+
+<img src="https://dreamworksrc.com/wp-content/uploads/2023/05/HRC35496S.jpg" alt="GWS Servomotor S04 BBM" style={{maxHeight: '200px'}} />
+
+## Descripción
+
+El Hitec HSR-5498SG es un servomotor digital de alto torque diseñado para aplicaciones robóticas que requieren precisión y durabilidad. Equipado con engranajes de acero y un sistema de montaje axial en la parte inferior, este servo ofrece un rendimiento confiable en proyectos exigentes. 
+
+## ¿Qué incluye?
+
+- 2X Servomotor HS-5498SG
+
+## Ubicación
+
+| Código     | E5B3-221 |
+| ---------- | -------- |
+| Estantería | 5        |
+| Bandeja    | 3        |
+| Posición   | 221     |
+
+## Cantidad Disponible
+
+2 unidades (actualizado: Marzo 2025)
+
+## Características Técnicas
+
+- **Tipo**: Servo digital de alto torque
+- **Voltaje de operación**: 4.8V - 7.4V DC
+- **Velocidad**:
+  - 0.18 s/60° a 6.0V
+- **Torque**:
+  - 14.0 kg-cm a 6.0V
+  - 18.0 kg-cm a 7.4V
+- **Peso**: 60 g
+- **Dimensiones**: 43.6 x 20.3 x 39.4 mm
+- **Sistema de engranajes**: Acero
+- **Montaje**: Orificio de montaje axial en la parte inferior
+
+## Pinout
+
+<img src=" " alt="Servo Pinout" style={{maxHeight: '200px'}} />
+
+El servomotor tiene un conector de 3 pines con la siguiente configuración:
+
+| Color del Cable  | Función     |
+| ---------------- | ----------- |
+| Naranja/Amarillo | Señal (PWM) |
+| Rojo             | VCC (+5V)   |
+| Marrón/Negro     | GND         |
+
+### Función de cada pin
+
+- **Señal (Naranja/Amarillo)**: Recibe la señal PWM para controlar la posición del servo.
+- **VCC (Rojo)**: Alimentación positiva, típicamente entre 4.8V y 7.4V.
+- **GND (Marrón/Negro)**: Conexión a tierra.
+
+## Códigos de Ejemplo
+
+- [Tutorial de Servos en Arduino](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors)
+- [Control de Servomotor con Arduino](https://www.instructables.com/Arduino-Servo-Motors/)
+- [Proyecto Robot con Servos](https://create.arduino.cc/projecthub/ryanchan/simple-servo-wheel-robot-49793e)
+
+## Datasheet del Fabricante
+
+[Datasheet Hitec HSR-5498SG](https://hitecrcd.com/hsr-5498sg-servo/) 
