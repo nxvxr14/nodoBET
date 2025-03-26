@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+
+=======
+# nodoBET
+Repositorio de Electrónica y Telecomunicaciones – Tecnoparque Nodo Bucaramanga
+>>>>>>> 70e52f7aa65138c852a3d3547099ea075da94611
+
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
