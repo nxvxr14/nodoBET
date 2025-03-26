@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # HS-805BB+
 
-<img src="https://images.amain.com/images/large/hrc/hrc31805s.jpg" />
+<img src="https://images.amain.com/images/large/hrc/hrc31805s.jpg" alt="GWS Servomotor S04 BBM" style={{maxHeight: '200px'}} />
 
 ## Descripción
 
-El **HS-805BB+** es un servomotor analógico de escala 1/4, conocido como el "servo monstruo" por su capacidad para generar un torque significativo. Está diseñado para aplicaciones que requieren alta potencia y durabilidad, como aviones de gran escala, automóviles a escala 1/4 y 1/5, y embarcaciones de gran tamaño. citeturn0search2
+El **HS-805BB+** es un servomotor analógico de escala 1/4, conocido como el "servo monstruo" por su capacidad para generar un torque significativo. Está diseñado para aplicaciones que requieren alta potencia y durabilidad, como aviones de gran escala, automóviles a escala 1/4 y 1/5, y embarcaciones de gran tamaño.
 
 ## ¿Qué incluye?
 
@@ -53,7 +53,7 @@ El **HS-805BB+** es un servomotor analógico de escala 1/4, conocido como el "se
 
 ## Pinout
 
-<img src="https://images.amain.com/images/large/hrc/hrc31805s.jpg" />
+<img src="https://images.amain.com/images/large/hrc/hrc31805s.jpg" alt="Servo Pinout" style={{maxHeight: '200px'}} />
 
 El servomotor tiene un conector de 3 pines con la siguiente configuración:
 
