@@ -11,7 +11,7 @@ El servomotor DCS2600Digi es un actuador rotativo diseñado para proporcionar co
 
 ## ¿Qué incluye?
 
-- 1x GWS Servomotor S04 BBM
+- 1x Servomotor DCS2600Digi
 - No incluye accesorios de montaje básicos
 
 ## Ubicación
