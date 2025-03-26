@@ -13,6 +13,7 @@ El Hitec HS-755HB es un servomotor analógico de escala gigante diseñado para a
 ## ¿Qué incluye?
 
 - 1x Servomotor HS-755HB
+- No incluye accesorios de montaje básicos
 
 ## Ubicación
 
