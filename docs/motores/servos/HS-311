@@ -1,0 +1,76 @@
+---
+sidebar_position: 7
+---
+
+# Servomotor HS-311
+
+<img src="https://3rdrockhobbies.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/s/hs-311.jpg" alt="GWS Servomotor S04 BBM" style={{maxHeight: '200px'}} />
+
+## Descripción
+
+El Hitec HS-311 es un servomotor analógico estándar reconocido por su confiabilidad y rendimiento en aplicaciones de modelismo y robótica. Equipado con engranajes de resina y un motor de escobillas metálicas, ofrece una solución económica sin comprometer la calidad. Su diseño ligero y compacto lo hace adecuado para diversas aplicaciones que requieren control preciso de posición. 
+
+## ¿Qué incluye?
+
+- 1x Servomotor HS-311
+- No incluye accesorios de montaje básicos
+
+## Ubicación
+
+| Código     | E5B3-221 |
+| ---------- | -------- |
+| Estantería | 5        |
+| Bandeja    | 3        |
+| Posición   | 221      |
+
+## Cantidad Disponible
+
+1 unidad (actualizado: Marzo 2025)
+
+## Características Técnicas
+
+- **Tipo**: Servomotor analógico estándar
+- **Voltaje de operación**: 4.8V - 6.0V DC
+- **Velocidad**:
+  - 0.19 s/60° a 4.8V
+  - 0.15 s/60° a 6.0V
+- **Torque**:
+  - 3.0 kg-cm (41.66 oz-in) a 4.8V
+  - 3.7 kg-cm (51.38 oz-in) a 6.0V
+- **Peso**: 43 g (1.51 oz)
+- **Dimensiones**: 40 x 20 x 36.5 mm (1.57 x 0.78 x 1.43 in)
+- **Sistema de engranajes**: Resina
+- **Motor**: De escobillas metálicas
+- **Consumo de corriente**:
+  - En reposo: 7 mA a 4.8V
+  - Funcionamiento sin carga: 160 mA a 4.8V
+- **Temperatura de operación**: -20°C a +60°C
+- **Aplicaciones**: Modelismo, robótica y otras aplicaciones que requieren control preciso de posición
+
+## Pinout
+
+<img src=" " alt="Servo Pinout" style={{maxHeight: '200px'}} />
+
+El servomotor tiene un conector de 3 pines con la siguiente configuración:
+
+| Color del Cable  | Función     |
+| ---------------- | ----------- |
+| Naranja/Amarillo | Señal (PWM) |
+| Rojo             | VCC (+5V)   |
+| Marrón/Negro     | GND         |
+
+### Función de cada pin
+
+- **Señal (Naranja/Amarillo)**: Recibe la señal PWM para controlar la posición del servo.
+- **VCC (Rojo)**: Alimentación positiva, típicamente entre 4.8V y 6.0V.
+- **GND (Marrón/Negro)**: Conexión a tierra.
+
+## Códigos de Ejemplo
+
+- [Tutorial de Servos en Arduino](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors)
+- [Control de Servomotor con Arduino](https://www.instructables.com/Arduino-Servo-Motors/)
+- [Proyecto Robot con Servos](https://create.arduino.cc/projecthub/ryanchan/simple-servo-wheel-robot-49793e)
+
+## Datasheet del Fabricante
+
+[Datasheet Hitec HS-311](https://www.hiteccs.com/public/uploads/data_sheet/HCS_HS-311_Specsheetv2.2_102-1729889658.pdf) 
